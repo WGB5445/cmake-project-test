@@ -2,5 +2,6 @@
 /cmake-build-release
 /include
 /lib
+/bin
 /.idea
 /build
