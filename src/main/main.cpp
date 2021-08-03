@@ -3,9 +3,7 @@
 #include <sharedlib/sharedlibrary.h>
 int main() {
    Static::hello();
-
-
-  Shared::hello();
+   Shared::hello();
 
         return 0;
 }

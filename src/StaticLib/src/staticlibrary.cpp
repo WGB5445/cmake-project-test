@@ -4,5 +4,4 @@
 
 void Static::hello() {
         std::cout << "Hello I am staticlib" << std::endl;
-
-    }
+}
